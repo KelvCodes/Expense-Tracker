@@ -25,3 +25,4 @@ Built using **HTML**, **CSS**, and **JavaScript**, this app is lightweight, fast
 5. **Delete expenses** if needed and keep your budget in check!
 
    ---
+## 📜 Live Demo
