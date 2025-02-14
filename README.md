@@ -10,4 +10,5 @@ Built using **HTML**, **CSS**, and **JavaScript**, this app is lightweight, fast
 ✅ **📊 Live Expense Tracking** – Add and view expenses dynamically. 
 ✅ **📌 Categorized Spending** – Assign expenses to categories for better insights. 
 ✅ **📈 Visual Expense Chart** – Get a clear overview with a **pie chart** (powered by Chart.js).
-✅ **🛠 Local Storage Support** – Your data is **saved automatically** and won’t disappear on refresh.  
+✅ **🛠 Local Storage Support** – Your data is **saved automatically** and won’t disappear on refresh. 
+✅ **⏳ Budget Limit Alert** – Get notified when spending exceeds your set limit.
