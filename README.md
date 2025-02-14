@@ -43,3 +43,6 @@ Built using **HTML**, **CSS**, and **JavaScript**, this app is lightweight, fast
 
 ---
 🚀 **Why This Tech Stack?** 
+The **Smart Expense Tracker** is built with **pure HTML, CSS, and JavaScript**, making it **lightweight, fast, and easy to use**.  
+With **Local Storage**, the app retains expense data without needing a backend.  
+The use of **Chart.js** provides **interactive visualizations**, and **CSS Flexbox & Grid** ensure a fully **responsive** layout.  
