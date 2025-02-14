@@ -61,7 +61,7 @@ The use of **Chart.js** provides **interactive visualizations**, and **CSS Flexb
 
 ## 🤝 Contributing  
 
-Want to add new features or improve the game? We’d love your help! 💡  
+Want to add new features or improve this app? We’d love your help! 💡  
 1. Fork this repository.  
 2. Create a new branch:  
    ```bash  
