@@ -14,3 +14,5 @@ Built using **HTML**, **CSS**, and **JavaScript**, this app is lightweight, fast
 ✅ **⏳ Budget Limit Alert** – Get notified when spending exceeds your set limit.
 ✅ **🖥️ Simple & Responsive UI** – A clean and user-friendly interface, optimized for all devices. 
 ✅ **🔁 Delete Expenses** – Remove unnecessary entries with one click.  
+
+---
