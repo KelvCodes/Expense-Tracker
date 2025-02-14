@@ -5,3 +5,5 @@ A simple and intuitive web app designed to help you **track your daily expenses*
 Built using **HTML**, **CSS**, and **JavaScript**, this app is lightweight, fast, and runs entirely in the browser—no backend needed! 
 
 ---
+
+## 🌟 Features  
