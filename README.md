@@ -18,3 +18,4 @@ Built using **HTML**, **CSS**, and **JavaScript**, this app is lightweight, fast
 ---
 
 ## 🚀 How to Use 
+1. **Enter an expense amount, category, and description.**
