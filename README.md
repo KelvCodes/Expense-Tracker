@@ -20,4 +20,5 @@ Built using **HTML**, **CSS**, and **JavaScript**, this app is lightweight, fast
 ## 🚀 How to Use 
 1. **Enter an expense amount, category, and description.**
 2. **Click "Add Expense"** to store the entry.  
-3. **View your total spending** and track individual expenses. 
+3. **View your total spending** and track individual expenses.
+4.  **Check the pie chart** for a visual breakdown of expenses.
