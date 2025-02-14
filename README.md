@@ -12,3 +12,4 @@ Built using **HTML**, **CSS**, and **JavaScript**, this app is lightweight, fast
 ✅ **📈 Visual Expense Chart** – Get a clear overview with a **pie chart** (powered by Chart.js).
 ✅ **🛠 Local Storage Support** – Your data is **saved automatically** and won’t disappear on refresh. 
 ✅ **⏳ Budget Limit Alert** – Get notified when spending exceeds your set limit.
+✅ **🖥️ Simple & Responsive UI** – A clean and user-friendly interface, optimized for all devices. 
