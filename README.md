@@ -29,3 +29,5 @@ Built using **HTML**, **CSS**, and **JavaScript**, this app is lightweight, fast
 🔗 **[Try It Now](https://your-github-username.github.io/expense-tracker/)**  
 
 ---
+
+## 🛠 Tech Stack  
