@@ -42,3 +42,4 @@ Built using **HTML**, **CSS**, and **JavaScript**, this app is lightweight, fast
 | ![Animations](https://img.shields.io/badge/Animations-9400D3?style=for-the-badge) | Smooth transitions and effects |
 
 ---
+🚀 **Why This Tech Stack?** 
