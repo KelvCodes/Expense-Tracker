@@ -32,3 +32,4 @@ Built using **HTML**, **CSS**, and **JavaScript**, this app is lightweight, fast
 
 ## 🛠 Tech Stack  
 | Technology | Purpose |
+|------------|---------|
