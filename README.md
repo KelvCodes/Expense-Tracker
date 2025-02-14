@@ -8,4 +8,5 @@ Built using **HTML**, **CSS**, and **JavaScript**, this app is lightweight, fast
 
 ## 🌟 Features  
 ✅ **📊 Live Expense Tracking** – Add and view expenses dynamically. 
-✅ **📌 Categorized Spending** – Assign expenses to categories for better insights.  
+✅ **📌 Categorized Spending** – Assign expenses to categories for better insights. 
+✅ **📈 Visual Expense Chart** – Get a clear overview with a **pie chart** (powered by Chart.js).
