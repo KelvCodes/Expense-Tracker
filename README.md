@@ -40,3 +40,5 @@ Built using **HTML**, **CSS**, and **JavaScript**, this app is lightweight, fast
 | ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white) | Visual representation of expenses |
 | ![Flexbox & Grid](https://img.shields.io/badge/Flexbox%20&%20Grid-008080?style=for-the-badge) | Responsive UI layout |
 | ![Animations](https://img.shields.io/badge/Animations-9400D3?style=for-the-badge) | Smooth transitions and effects |
+
+---
