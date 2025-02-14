@@ -16,3 +16,5 @@ Built using **HTML**, **CSS**, and **JavaScript**, this app is lightweight, fast
 ✅ **🔁 Delete Expenses** – Remove unnecessary entries with one click.  
 
 ---
+
+## 🚀 How to Use 
