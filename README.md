@@ -7,3 +7,4 @@ Built using **HTML**, **CSS**, and **JavaScript**, this app is lightweight, fast
 ---
 
 ## 🌟 Features  
+✅ **📊 Live Expense Tracking** – Add and view expenses dynamically. 
