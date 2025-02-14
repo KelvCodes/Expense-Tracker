@@ -13,3 +13,4 @@ Built using **HTML**, **CSS**, and **JavaScript**, this app is lightweight, fast
 ✅ **🛠 Local Storage Support** – Your data is **saved automatically** and won’t disappear on refresh. 
 ✅ **⏳ Budget Limit Alert** – Get notified when spending exceeds your set limit.
 ✅ **🖥️ Simple & Responsive UI** – A clean and user-friendly interface, optimized for all devices. 
+✅ **🔁 Delete Expenses** – Remove unnecessary entries with one click.  
