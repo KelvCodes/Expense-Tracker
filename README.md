@@ -26,7 +26,7 @@ Built using **HTML**, **CSS**, and **JavaScript**, this app is lightweight, fast
 
    ---
 ## 📜 Live Demo
-🔗 **[Try It Now](https://your-github-username.github.io/expense-tracker/)**  
+🔗 **[Try It Now](https://expense-monitor-pro.netlify.app/)**  
 
 ---
 
